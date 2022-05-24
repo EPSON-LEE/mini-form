@@ -1,5 +1,5 @@
 ## Mini Program skleton
 
-- [ ] Taro + Taroify
-- [x] Redux
+- [x] Taro + Taroify
+- [ ] Redux
 
